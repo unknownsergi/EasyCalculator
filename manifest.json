@@ -4,5 +4,8 @@
     "version": "1.0",
     "description": "A simple easy acces web calculator.",
     "default_locale": "en",
-    "author": "sergicampsdeveloper@gmail.com"
+    "author": "sergicampsdeveloper@gmail.com",
+    "action": {
+        "default_popup": "popup.html"
+    }
 }
