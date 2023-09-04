@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "name": "EasyCalculator",
+    "version": "1.0",
+    "description": "A simple easy acces web calculator.",
+    "default_locale": "en",
+    "author": "sergicampsdeveloper@gmail.com"
+}
